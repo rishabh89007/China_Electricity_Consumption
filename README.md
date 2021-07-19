@@ -1,1 +1,2 @@
 # China_Electricity_Consumption
+A step-by-step tutorial for anybody who is starting with XGBoost and requires to use this supervised machine learning approach to solve regression problems. We covered how to mould your dataset to fit the DMatrix data structure inherent to the XGBoost model. Moreover, you applied the various parameters used to optimize your model using XGBRegressor class. Finally, we visualized the test, predicted and forecasted electricity values obtained from the trained XGBoost model.
